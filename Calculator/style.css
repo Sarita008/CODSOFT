@@ -4,18 +4,6 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-.box{
-  position: absolute;
-  top: 50px;
-  left: 40px;
-}
-h1{
-    font-size: 3em;
-    background: linear-gradient(45deg ,#3a4452, #4a596c8a);
-    background-clip: text;
-    color: transparent;
-}
- 
 
 .container{
  width: 100%;
